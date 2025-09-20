@@ -1,2 +1,2 @@
 # offset_scanner
-auto find offset about player in gmae/
+auto find offset about player in game
